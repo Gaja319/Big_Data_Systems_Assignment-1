@@ -1,0 +1,51 @@
+product_id,category,price,department
+PROD_001,Electronics,373.36,Laptops
+PROD_002,Apparel,78.37,Women
+PROD_003,Electronics,299.34,Laptops
+PROD_004,Electronics,55.91,Laptops
+PROD_005,Apparel,285.01,Men
+PROD_006,Beauty & Health,230.11,Skincare
+PROD_007,Home & Kitchen,381.82,Furniture
+PROD_008,Apparel,176.72,Footwear
+PROD_009,Apparel,479.03,Women
+PROD_010,Home & Kitchen,55.45,Furniture
+PROD_011,Electronics,425.27,Accessories
+PROD_012,Home & Kitchen,367.57,Furniture
+PROD_013,Electronics,48.61,Mobile
+PROD_014,Home & Kitchen,292.9,Decor
+PROD_015,Electronics,334.02,Laptops
+PROD_016,Home & Kitchen,429.11,Furniture
+PROD_017,Electronics,146.21,Mobile
+PROD_018,Home & Kitchen,191.39,Cookware
+PROD_019,Apparel,353.89,Kids
+PROD_020,Electronics,271.73,Audio
+PROD_021,Apparel,236.51,Women
+PROD_022,Home & Kitchen,345.46,Cookware
+PROD_023,Electronics,412.68,Audio
+PROD_024,Home & Kitchen,141.19,Appliances
+PROD_025,Apparel,114.19,Kids
+PROD_026,Beauty & Health,443.49,Fitness
+PROD_027,Beauty & Health,139.79,Skincare
+PROD_028,Apparel,376.04,Kids
+PROD_029,Beauty & Health,205.71,Personal Care
+PROD_030,Apparel,259.67,Women
+PROD_031,Electronics,431.94,Laptops
+PROD_032,Apparel,398.12,Women
+PROD_033,Beauty & Health,41.13,Personal Care
+PROD_034,Beauty & Health,498.1,Personal Care
+PROD_035,Home & Kitchen,343.34,Furniture
+PROD_036,Electronics,386.61,Accessories
+PROD_037,Home & Kitchen,153.82,Furniture
+PROD_038,Apparel,11.59,Footwear
+PROD_039,Home & Kitchen,258.76,Cookware
+PROD_040,Electronics,422.42,Accessories
+PROD_041,Apparel,193.22,Women
+PROD_042,Apparel,303.48,Men
+PROD_043,Beauty & Health,64.82,Skincare
+PROD_044,Home & Kitchen,127.33,Decor
+PROD_045,Apparel,51.97,Men
+PROD_046,Beauty & Health,489.21,Skincare
+PROD_047,Apparel,333.28,Women
+PROD_048,Apparel,268.56,Kids
+PROD_049,Beauty & Health,465.17,Skincare
+PROD_050,Apparel,205.51,Kids

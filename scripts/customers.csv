@@ -1,0 +1,201 @@
+customer_id,signup_date,location,demographic_segment
+CUST_0001,2024-08-14,Washington,Seniors
+CUST_0002,2025-04-10,Illinois,Professionals
+CUST_0003,2026-03-01,California,Families
+CUST_0004,2026-04-28,Texas,Young Adults
+CUST_0005,2024-11-07,Illinois,Families
+CUST_0006,2024-11-07,California,Young Adults
+CUST_0007,2026-04-21,Washington,Young Adults
+CUST_0008,2025-11-10,New York,Young Adults
+CUST_0009,2025-07-29,New York,Students
+CUST_0010,2025-11-01,Texas,Professionals
+CUST_0011,2025-11-25,Illinois,Families
+CUST_0012,2024-06-22,Illinois,Students
+CUST_0013,2025-03-05,California,Professionals
+CUST_0014,2024-03-28,Florida,Families
+CUST_0015,2026-03-28,New York,Professionals
+CUST_0016,2025-07-05,Florida,Professionals
+CUST_0017,2025-03-11,Ohio,Young Adults
+CUST_0018,2024-08-12,Washington,Young Adults
+CUST_0019,2026-05-01,Florida,Seniors
+CUST_0020,2024-04-04,Ohio,Young Adults
+CUST_0021,2025-10-21,California,Families
+CUST_0022,2024-12-30,Florida,Families
+CUST_0023,2025-04-26,California,Seniors
+CUST_0024,2025-03-16,California,Young Adults
+CUST_0025,2025-04-05,Ohio,Students
+CUST_0026,2026-03-24,New York,Students
+CUST_0027,2024-02-27,New York,Young Adults
+CUST_0028,2024-05-22,Ohio,Families
+CUST_0029,2026-01-13,Florida,Professionals
+CUST_0030,2025-02-25,California,Professionals
+CUST_0031,2026-05-03,California,Professionals
+CUST_0032,2026-06-30,Florida,Seniors
+CUST_0033,2024-04-21,Ohio,Professionals
+CUST_0034,2025-09-13,Florida,Students
+CUST_0035,2024-08-24,Washington,Professionals
+CUST_0036,2026-01-25,California,Seniors
+CUST_0037,2025-11-22,New York,Students
+CUST_0038,2024-06-09,Illinois,Young Adults
+CUST_0039,2024-05-28,Texas,Young Adults
+CUST_0040,2026-05-12,Illinois,Professionals
+CUST_0041,2025-02-03,Ohio,Students
+CUST_0042,2026-01-22,New York,Students
+CUST_0043,2026-04-11,Ohio,Families
+CUST_0044,2026-04-23,Illinois,Young Adults
+CUST_0045,2024-08-10,Ohio,Families
+CUST_0046,2025-05-15,New York,Students
+CUST_0047,2025-10-23,Illinois,Students
+CUST_0048,2026-05-23,Illinois,Young Adults
+CUST_0049,2025-04-29,Washington,Students
+CUST_0050,2024-12-01,Illinois,Seniors
+CUST_0051,2025-10-08,California,Seniors
+CUST_0052,2025-10-31,Texas,Professionals
+CUST_0053,2026-02-18,Washington,Seniors
+CUST_0054,2025-03-21,Texas,Young Adults
+CUST_0055,2026-06-23,Florida,Students
+CUST_0056,2024-12-03,New York,Young Adults
+CUST_0057,2024-12-29,California,Students
+CUST_0058,2025-10-04,California,Seniors
+CUST_0059,2026-04-23,California,Seniors
+CUST_0060,2025-09-14,California,Professionals
+CUST_0061,2024-03-01,Illinois,Seniors
+CUST_0062,2024-10-14,Ohio,Students
+CUST_0063,2026-06-24,Washington,Students
+CUST_0064,2025-08-30,Washington,Young Adults
+CUST_0065,2026-02-15,Texas,Young Adults
+CUST_0066,2026-03-15,Washington,Students
+CUST_0067,2026-01-24,Texas,Seniors
+CUST_0068,2024-10-21,California,Seniors
+CUST_0069,2025-12-06,Washington,Seniors
+CUST_0070,2025-01-31,Florida,Seniors
+CUST_0071,2024-02-17,New York,Young Adults
+CUST_0072,2024-09-21,Florida,Seniors
+CUST_0073,2026-05-18,New York,Seniors
+CUST_0074,2024-05-04,California,Seniors
+CUST_0075,2026-01-18,Washington,Professionals
+CUST_0076,2024-12-15,Washington,Professionals
+CUST_0077,2024-12-05,New York,Young Adults
+CUST_0078,2026-04-16,Washington,Families
+CUST_0079,2024-12-21,New York,Seniors
+CUST_0080,2024-11-13,Illinois,Families
+CUST_0081,2025-04-18,California,Young Adults
+CUST_0082,2025-08-21,Texas,Young Adults
+CUST_0083,2025-07-01,California,Families
+CUST_0084,2024-08-19,New York,Seniors
+CUST_0085,2024-04-25,Illinois,Professionals
+CUST_0086,2024-10-05,Washington,Families
+CUST_0087,2025-11-02,Ohio,Families
+CUST_0088,2024-04-04,Ohio,Families
+CUST_0089,2025-05-06,New York,Families
+CUST_0090,2024-06-08,Texas,Professionals
+CUST_0091,2024-04-02,Washington,Families
+CUST_0092,2025-10-02,California,Young Adults
+CUST_0093,2025-06-06,Ohio,Young Adults
+CUST_0094,2025-03-08,California,Families
+CUST_0095,2024-03-18,Florida,Seniors
+CUST_0096,2025-08-24,Ohio,Families
+CUST_0097,2025-11-16,New York,Families
+CUST_0098,2025-05-20,Texas,Seniors
+CUST_0099,2026-04-22,Ohio,Seniors
+CUST_0100,2025-07-08,Washington,Students
+CUST_0101,2025-05-19,Washington,Students
+CUST_0102,2025-07-28,New York,Young Adults
+CUST_0103,2025-10-08,California,Students
+CUST_0104,2025-10-04,New York,Young Adults
+CUST_0105,2024-10-30,Florida,Seniors
+CUST_0106,2024-06-16,Ohio,Seniors
+CUST_0107,2025-04-12,Illinois,Students
+CUST_0108,2026-03-06,Florida,Students
+CUST_0109,2025-12-20,Texas,Young Adults
+CUST_0110,2024-07-07,Florida,Young Adults
+CUST_0111,2025-01-16,Ohio,Students
+CUST_0112,2024-07-29,Washington,Families
+CUST_0113,2025-06-25,Florida,Young Adults
+CUST_0114,2024-08-21,Texas,Students
+CUST_0115,2025-08-15,Washington,Young Adults
+CUST_0116,2024-06-25,Texas,Students
+CUST_0117,2025-08-20,Washington,Professionals
+CUST_0118,2025-08-02,Florida,Seniors
+CUST_0119,2024-12-12,California,Families
+CUST_0120,2025-04-28,Washington,Professionals
+CUST_0121,2024-08-08,Washington,Families
+CUST_0122,2024-10-10,Illinois,Seniors
+CUST_0123,2025-05-13,Illinois,Young Adults
+CUST_0124,2025-08-25,Texas,Families
+CUST_0125,2025-04-18,Ohio,Students
+CUST_0126,2024-10-19,Washington,Seniors
+CUST_0127,2025-03-13,Florida,Professionals
+CUST_0128,2024-08-10,California,Students
+CUST_0129,2025-03-05,Ohio,Families
+CUST_0130,2024-08-27,New York,Seniors
+CUST_0131,2025-01-21,Washington,Students
+CUST_0132,2025-07-24,New York,Families
+CUST_0133,2024-08-13,Texas,Families
+CUST_0134,2024-03-29,California,Families
+CUST_0135,2026-06-07,New York,Families
+CUST_0136,2025-03-03,Illinois,Young Adults
+CUST_0137,2025-03-23,Florida,Students
+CUST_0138,2025-12-15,Washington,Professionals
+CUST_0139,2025-02-11,Florida,Families
+CUST_0140,2026-02-01,Washington,Young Adults
+CUST_0141,2024-05-25,Ohio,Young Adults
+CUST_0142,2024-04-26,Florida,Families
+CUST_0143,2026-01-03,Ohio,Students
+CUST_0144,2025-03-14,New York,Students
+CUST_0145,2025-10-20,Ohio,Young Adults
+CUST_0146,2025-03-22,California,Professionals
+CUST_0147,2024-08-18,Illinois,Students
+CUST_0148,2024-10-31,Texas,Professionals
+CUST_0149,2024-10-13,Ohio,Students
+CUST_0150,2025-04-22,Ohio,Students
+CUST_0151,2025-04-02,California,Professionals
+CUST_0152,2025-03-29,Texas,Families
+CUST_0153,2024-02-23,Washington,Seniors
+CUST_0154,2024-05-09,Ohio,Students
+CUST_0155,2025-02-21,Washington,Families
+CUST_0156,2025-09-24,Florida,Young Adults
+CUST_0157,2024-07-02,Texas,Families
+CUST_0158,2025-09-27,Texas,Seniors
+CUST_0159,2024-12-26,New York,Families
+CUST_0160,2026-01-29,California,Professionals
+CUST_0161,2024-07-22,California,Families
+CUST_0162,2026-04-28,Florida,Professionals
+CUST_0163,2025-07-29,Illinois,Professionals
+CUST_0164,2025-05-03,New York,Families
+CUST_0165,2024-03-02,Florida,Professionals
+CUST_0166,2024-05-05,Illinois,Young Adults
+CUST_0167,2024-05-10,Illinois,Professionals
+CUST_0168,2025-03-01,New York,Seniors
+CUST_0169,2025-08-31,Ohio,Professionals
+CUST_0170,2024-02-28,Florida,Students
+CUST_0171,2024-05-28,Washington,Students
+CUST_0172,2024-04-04,Illinois,Families
+CUST_0173,2025-02-18,California,Seniors
+CUST_0174,2025-04-12,Florida,Young Adults
+CUST_0175,2025-05-30,Texas,Professionals
+CUST_0176,2024-06-21,California,Professionals
+CUST_0177,2026-02-22,Illinois,Students
+CUST_0178,2026-06-05,Florida,Students
+CUST_0179,2024-12-02,Washington,Young Adults
+CUST_0180,2026-04-08,Washington,Professionals
+CUST_0181,2026-02-14,Ohio,Professionals
+CUST_0182,2025-12-28,New York,Seniors
+CUST_0183,2025-06-09,Texas,Families
+CUST_0184,2025-03-24,Texas,Seniors
+CUST_0185,2024-05-14,Florida,Seniors
+CUST_0186,2024-05-23,Ohio,Professionals
+CUST_0187,2025-10-17,Ohio,Young Adults
+CUST_0188,2025-03-08,New York,Students
+CUST_0189,2026-05-10,Texas,Families
+CUST_0190,2024-09-05,New York,Young Adults
+CUST_0191,2024-05-21,New York,Families
+CUST_0192,2025-12-10,Ohio,Young Adults
+CUST_0193,2024-10-04,California,Families
+CUST_0194,2026-02-23,Florida,Young Adults
+CUST_0195,2024-12-02,California,Professionals
+CUST_0196,2024-07-16,Texas,Seniors
+CUST_0197,2026-01-12,Illinois,Students
+CUST_0198,2024-05-28,Washington,Young Adults
+CUST_0199,2024-04-27,Ohio,Families
+CUST_0200,2025-08-18,New York,Students
